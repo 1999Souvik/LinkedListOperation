@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\Linkedlist\obj\Debug\Linkedlist.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\Linkedlist\obj\Debug\Linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\Linkedlist\bin\Debug\Linkedlist.exe.config
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\Linkedlist\bin\Debug\Linkedlist.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\Linkedlist\bin\Debug\Linkedlist.pdb
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\Linkedlist\obj\Debug\Linkedlist.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\Linkedlist\obj\Debug\Linkedlist.pdb
